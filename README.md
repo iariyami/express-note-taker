@@ -2,6 +2,12 @@
 
 - The Note Taker is an application that is for managing your notes. This application is used to write, save, and delete notes at the user's convinience.
 
+# Links
+
+- Deployed: https://peaceful-basin-43109.herokuapp.com/
+
+- Github Overview: https://github.com/iariyami/express-note-taker
+
 # Description
 
 - This Note Taker was created using HTML, CSS, Javascript, express.js, and node.js.
@@ -14,11 +20,10 @@
 
 - node.js is used to manage the calling of multiple different backend modules and manage the server that they live on.
 
-# Links
+# Deployed Application
 
-- Deployed: https://peaceful-basin-43109.herokuapp.com/
-
-- Github Overview: https://github.com/iariyami/express-note-taker
+- Screenshot of deployed application
+  ![](public/assets/images/expressnotetaker.png)
 
 # Purpose
 
@@ -31,3 +36,9 @@
 # License
 
 - This website is open to the public for use
+
+# Credits
+
+- Heroku
+
+- Github
