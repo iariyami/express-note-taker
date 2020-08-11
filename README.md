@@ -16,8 +16,9 @@
 
 # Links
 
-- Deployed:
-- Github Overview:
+- Deployed: https://peaceful-basin-43109.herokuapp.com/
+
+- Github Overview: https://github.com/iariyami/express-note-taker
 
 # Purpose
 
