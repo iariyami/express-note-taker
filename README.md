@@ -4,7 +4,7 @@
 
 # Links
 
-- Deployed: https://peaceful-basin-43109.herokuapp.com/
+- Deployed: https://test-note-taker-fix-5b9bcce5e010.herokuapp.com/
 
 - Github Overview: https://github.com/iariyami/express-note-taker
 
